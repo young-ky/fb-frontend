@@ -1,0 +1,222 @@
+{
+  "home": {
+    "hero": {
+      "title": "Kelas Membangun Brand",
+      "desc": "Dari Lahir Sampai Punya Loyalis, Hanya dengan Belajar 6 Jam, <br> Belajar Branding Tak Pernah Semudah Ini, Buktikan Sendiri."
+    },
+    "content": {
+      "brandingChallenge": {
+        "title": "Apakah masalah berikut anda temui terhadap brand anda?",
+        "challenge-1": "Bingung bagaimana memulai pengembangan brand?",
+        "challenge-2": "Bingung dengan arah pengembangan brand dan produk?",
+        "challenge-3": "Bingung harus mulai dengan selling atau branding?",
+        "challenge-4": "Bingung cara bersaing tanpa menurunkan harga?",
+        "challenge-5": "Bingung dengan produk berkualitas yang tidak terjual dengan baik?",
+        "desc": "Jika Anda merasa salah satu atau beberapa situasi tersebut terjadi dengan bisnis Anda, mungkin itu tanda bahwa Branding Anda belum matang.",
+        "solution": "Kelas Online Fantastic Brand, mungkin dapat menjadi solusi yang cocok untuk Anda."
+      },
+      "benefit": {
+        "title": "Branding Journey",
+        "benefit-1": {
+          "title": "Brand Strategy",
+          "desc": "Memahami langkah-langkah mulai dari bagaimana brand itu lahir hingga memiliki bayak loyalis, yang dibagi per fase."
+        },
+        "benefit-2": {
+          "title": "Menentukan Fokus",
+          "desc": "Setiap brand memiliki masalahnya masing-masing, dengan branding journey anda akan lebih mudah menentukan bagian mana yang perlu diprioritaskan untuk ditingkatkan."
+        }
+      },
+      "reason": {
+        "title": "Kenapa Harus Ikut Fantastic Brand?",
+        "reason-1": {
+          "title": "Materi Branding Dibawakan Fun",
+          "desc": "Materi Fantastic Brand disampaikan dengan fun. Bahasa gampang dipahami, belajar jadi gak bosenin, gampang masuk dan bisa langsung diaplikasikan ke bisnis Anda."
+        },
+        "reason-2": {
+          "title": "Materi 40 video komplit dan komprehensif",
+          "desc": "Anda tidak perlu susah-susah mencari di antara 1.000.000 video branding di platform seperti YouTube."
+        },
+        "reason-3": {
+          "title": "Durasi belajar hanya 6 jam",
+          "desc": "Total semua materi Fantastic Brand berdurasi kurang lebih 6 jam. Luangin 1 jam setiap hari, seminggu sudah bisa bangun brand Anda."
+        },
+        "reason-4": {
+          "title": "Investasi seharga paketan kuota UMKM sebulan",
+          "desc": "Kelas ini memang dirancang khusus untuk UMKM Indonesia. Banyak member yang mengatakan ilmu ini harusnya bisa bernilai seharga jutaan rupiah."
+        }
+      },
+      "curriculum": {
+        "title": "Yang Anda Pelajari Dalam 6 Jam:",
+        "chapter-1": {
+          "title": "Chapter 1: Fundamental",
+          "point-1": "Perkenalan. Tak kenal maka tak sayang. Siapa itu Dodi Zulkifli?",
+          "point-2": "Dari Garasi Menuju Korporasi. Semua bisnis yang besar saat ini ada beberapa yang awalnya dimulai dari garasi.",
+          "point-3": "Strategi Bukan Taktik. Apa itu strategi? Strategi adalah cara mencapai GOAL yang sudah ditentukan.",
+          "point-4": "Rahasia dari Segala Rahasia. Brand harus bisa memberikan pengalaman emosional dan nyata kepada konsumen.",
+          "point-5": "Bingung dan Sulit. Aku lebih takut kepada orang yang melatih 1 jurus 1.000x daripada yang melatih 1.000 jurus 1x.",
+          "point-6": "Persiapan. Beberapa hal yang harus dipersiapkan untuk mengikuti kelas Fantastic Brand ini."
+        },
+        "chapter-2": {
+          "title": "Chapter 2: Why Brand",
+          "point-1": "Lebih Mudah Jualan. Pembeli akan lebih percaya kepada subjek yang sudah memiliki Reputasi.",
+          "point-2": "Imun Terhadap Kompetitor. Jika brand kuat, maka kompetitor tidak mudah untuk mengambil konsumennya.",
+          "point-3": "Iklan Lebih Dilihat. Ketika brand berbicara/beriklan, yang lebih dikenal lebih dilirik.",
+          "point-4": "Bisa Dijual. Brand adalah sesuatu yang intangible tetapi memiliki nilai jual.",
+          "point-5": "Gak Bisa Bangkrut. Brand tidak bisa bangkrut, melainkan bisnisnya yang mengalami kebangkrutan.",
+          "point-6": "Memberi Sugesti. Sugesti brand membuat visualisasi hasil yang diinginkan.",
+          "point-7": "Untung Lebih Gede. Lebih mudah menjual brand yang sudah dikenal daripada yang belum dikenal."
+        },
+        "chapter-3": {
+          "title": "Chapter 3: Brand Development",
+          "point-1": "Brand Yang Sukses. Brand yang bernilai adalah brand yang memiliki loyalis. Bukan saja popularitas.",
+          "point-2": "Loyalis Hilang Profit Melayang. Brand yang bernilai adalah brand yang memiliki loyalis. Bukan karena mahal/ murahnya produk & jasa yang dijual.",
+          "point-3": "Rahasia Brand Journey. Brand harus bisa memberikan pengalaman emosional dan nyata kepada konsumen.",
+          "point-4": "Fokus Dalam Kontrol. Akibat adalah diluar kontrol. Sebab adalah didalam kontrol.",
+          "point-5": "Berkualitas Tapi Kok Gak Laku? Produk saya lebih berkualitas, harga lebih murah, kenapa lebih laku kompetitor ya?",
+          "point-6": "Formula Harga. Cara menentukan harga yang cocok untuk produk Anda.",
+          "point-7": "Brand Equity Negatif. Apa yang terjadi jika sebuah Brand memiliki equity yang negatif.",
+          "point-8": "Tugas CEO. Tugas seorang CEO itu sebenarnya apa saja sih?",
+          "point-9": "3 Step Brand Development. Brand Development adalah proses membangun brand equity."
+        },
+        "chapter-4": {
+          "title": "Chapter 4: Blueprint",
+          "point-1": "Membangun Brand Dari Sini. Brand memiliki jati diri sama halnya seperti manusia.",
+          "point-2": "2 Atribut Brand Blueprint. Konsep jati diri sebuah brand yang akan hidup di pikiran pelanggan.",
+          "point-3": "Alasan Konsumen Membeli. Konsumen bukan membeli kualitas tetapi membeli persepsi/reputasi/trust.",
+          "point-4": "Positioning Lagi…. Bukan dimulai pembeda dari fitur produk, melainkan dari pembeda secara persepsi.",
+          "point-5": "Apa Jadinya Tanpa Positioning. Bukan dimulai pembeda dari fitur produk, melainkan dari pembeda secara persepsi.",
+          "point-6": "Formula Positioning. Brand Positioning = Market Category + Segmentation + UVP.",
+          "point-7": "Rule Positioning. Apa saja aturan-aturan yang ada di dalam positioning itu?",
+          "point-8": "Rahasia Jatuh Cinta. Apa jadinya jika sebuah produk tidak memiliki atau tanpa positioning?",
+          "point-9": "Konten Lebih Hidup. Inilah rahasia di balik konten brand yang terasa lebih hidup.",
+          "point-10": "3 Atribut Emotional Value. Tiga atribut penting emotional value terdiri dari Brand Vision, Brand Personality, dan Brand Soul.",
+          "point-11": "Mana Yang Prioritas? Manakah yang harus mendapatkan perhatian lebih di dalam brand Anda."
+        },
+        "chapter-5": {
+          "title": "Chapter 5: Delivery",
+          "point-1": "Tak Kenal Tak Beli. Konsumen bukan membeli realita, tetapi membeli persepsi brand Anda di pikiran mereka.",
+          "point-2": "Jebakan Persepsi. Persepsi yang salah kadang membuat sebuah jebakan yang tidak Anda sadari.",
+          "point-3": "4 Level Loyalitas. Level loyalitas konsumen terdiri atas : Emotional Value, Rational Value, Kebiasaan, dan Tidak ada pilihan.",
+          "point-4": "2 Bagian Brand Delivery. Brand Delivery terdiri atas 2 bagian yaitu Proof dan Promise.",
+          "point-5": "Brand Communication. Cara mengkomunikasikan Promise brand Anda ke pikiran calon konsumen.",
+          "point-6": "Rule of 7. Membangun reputasi dalam waktu singkat dengan low budget.",
+          "point-7": "Content Mapping. Sudah saatnya mengubah komunikasi dari product focus ke costumer focus.",
+          "point-8": "Visual Identity Menciptakan Suasana. Konsumen membeli persepsi bukan realita. Dan visual identity mempercepat membentuk persepsi tersebut.",
+          "point-9": "Produk Mengiyakan Ekspektasi. Inilah yang terjadi ketika equity dan persepsi sudah sesuai di pikiran konsumen!",
+          "point-10": "Distribution Channel Sebagai Cara Branding. Distribution Channel bisa menjadi tools branding yang efektif asal tahu caranya!"
+        }
+      },
+      "gallery": {
+        "title": "Gallery"
+      },
+      "testimonial": {
+        "title": "Simak Cerita Mereka yang Lebih Dulu Ikut Kelas",
+        "testimonial-1": {
+          "desc": "Dulu sebelum menentukan positioning, omset saya 30jt/bulan, setelah saya tau positioning, sekarang omset bisnis hijab saya bisa mencapai 1M/bulan, makasih ya Mas Dodi.",
+          "name": "- Gudang Hijab Murah Cirebon"
+        },
+        "testimonial-2": {
+          "desc": "Sedikit cerita saat mengikuti Fantastic Brand, pada video bagian fundamental saja saya merasa benar-benar relatable dengan materi, setelah saya mendapatkan clue tentang MBP, saya langsung menerapkan apa yang saya pelajari, dalam 1 bulan kami berhasil menembus omset 100jt.",
+          "name": "- Reparasi Sofa Jakarta"
+        },
+        "testimonial-3": {
+          "desc": "Setelah mengikuti training branding online ini, saya berhasil membantu rebranding Abu Arkan Property untuk menjual 36 Kavling dalam waktu 3 minggu dengan mengubah brand positioning nya, salut buat Coach Dodi, terima kasih Coach.",
+          "name": "- Smart Indo IBC"
+        },
+        "testimonial-4": {
+          "desc": "Saya baru memulai bisnis di bidang peternakan, setelah saya belajar melalui e-couse Mas Dodi, dalam waktu hampir 1 bulan saya berhasil mendapatkan 8 client, yang kalau saya hitung omset saya kira kira sekitar 40jt, terima kasih Mas Dodi sudah menyediakan jalur beasiswa.",
+          "name": "- Aldis"
+        },
+        "testimonial-5": {
+          "desc": "Kurang lebih 2 bulan saya mempelajari secara berulang materi tentang positioning dan brand canvas, setelah saya terapkan, saya berhasil mendapatkan 6 client dengan nominal penghasilan saya sekitar 15jt/bulan, sekali lagi terima kasih Mas Dodi dan juga tim Neyma.",
+          "name": "- Husnul"
+        }
+      }
+    }
+  },
+  "faq": {
+    "title": "Pertanyaan Yang Sering Ditanyakan",
+    "faq-1": {
+      "question": "Apakah bisa menjadi Affiliate ecourse ini?",
+      "answer-1": "Dengan membeli atau menjadi member ecourse ini secara otomatis Anda bisa ikut program afiliasi ecourse Fantastic Brand. Untuk komisi senilai Rp 111.600,-",
+      "answer-2": "Tunggu apa lagi, selain belajar kita bisa mendapatkan penghasilan."
+    },
+    "faq-2": {
+      "question": "Apakah membahas cara membuat logo & visual identity?",
+      "answer-1": "Kelas online ini bukan tentang membuat logo & visual identity. Tetapi membahas esensi bagaimana membangun dan membesarkan bisnis melalui brand yang bersifat strategis."
+    },
+    "faq-3": {
+      "question": "Apakah berbicara tentang iklan?",
+      "answer-1": "Kelas online ini juga bukanlah kelas online tentang membuat iklan. Walaupun iklan adalah bagian dari brand deliver."
+    },
+    "faq-4": {
+      "question": "Apakah materinya cocok untuk Reseller?",
+      "answer-1": "Benar, reseller tidak membangun brand produk. Karena brand produk dibangun oleh pemilik brandnya. Namun, reseller jugalah sebuah bisnis. Esensinya reseller sama dengan Indomar*t kan? Sama-sama pengecer, sama-sama retailer. Hanya Indomar*t offline, reseller online. Tidak membangun brand produknya, namun membangun brand resellernya."
+    },
+    "faq-5": {
+      "question": "Apa ada Garansi?",
+      "answer-1": "Garansi pasti bisa? Itu saya tidak bisa jawab, karena bagaimana dan seperti apapun pelajaran yang diberikan pada Anda. Tapi tidak didukung dengan komitmen dan konsistensi untuk terus belajar dan praktek, tidak bakalan ada progress.",
+      "answer-2": "Garansi Uang kembali? Mohon maaf, saya tidak menerima permintaan REFUND. Jadi pastikan beli hanya bila Anda butuh saja."
+    }
+  },
+  "aboutUs": {
+    "title": "Tentang Kami",
+    "desc": "Perkenalkan nama Saya Dodi Zulkifli",
+    "point-1": "CEO Neyma Brand + Identity.",
+    "point-2": "Founder Hasbuna Studio, Branding Express, Celcius Design, Derajat Celcius Printing.",
+    "point-3": "Praktisi Branding & Business Owner selama 21 tahun.",
+    "point-4": "Creator NeymaWay Canvas, Branding Journey, Positioning Hack Canvas yang terbukti membantu ribuan UKM.",
+    "point-5": "Konsultan Brand dengan klien lebih dari 700 portofolio dari 35 kategori bisnis (di antaranya : kuliner, fashion, kosmetik, pendidikan dll)."
+  },
+  "promotion": {
+    "title": "Apa yang Anda dapatkan:",
+    "promo": {
+      "totalValue": "Total Value",
+      "value": "14.392.000",
+      "desc": "Dapatkan Semuanya Hari Ini Dengan Hanya",
+      "promoPrice": "399.000",
+      "applyNow": "Daftar Sekarang",
+      "applyWA": "Daftar Via WA"
+    },
+    "product-1": {
+      "name": "Ecourse Mencari Nama Brand",
+      "price": "Rp 2.999.000",
+      "desc": "Seringkali ketika membuat nama brand yang paling dipakai nama anak, istri atau nama sendiri. Di video ini Anda akan diberikan insight bagaimana sih tips dan trik mencari sebuah nama brand yang sesuai untuk bisnis Anda."
+    },
+    "product-2": {
+      "name": "Video Membahas UVP & USP",
+      "price": "Rp 2.999.000",
+      "desc": "Apa sih perbedaan antara Unique Value Proposition (UVP) dengan Unique Selling Proposition (USP)? Sudahkan menerapkan kedua hal tersebut ke dalam brand atau produk Anda?"
+    },
+    "product-3": {
+      "name": "Strategi Repeat Order",
+      "price": "Rp 999.000",
+      "desc": "Impian semua pebisnis bahwa produknya selalu dibeli oleh konsumen. Dan impian tersebut sebenarnya bisa didapat oleh semua pebisnis jika menerapkan apa yang ada di dalam video ini!"
+    },
+    "product-4": {
+      "name": "Cara Bikin Konten Gue Banget",
+      "price": "Rp 999.000",
+      "desc": "Konten media sosial salah satu media komunikasi untuk brand Anda. Lantas bagaimana cara membuat konten yang selaras dengan positioning brand Anda selama ini? Anda wajib menonton materi video ini untuk menjawabnya."
+    },
+    "product-5": {
+      "name": "5 Strategi Menghadapi Bisnis Stuck",
+      "price": "Rp 999.000",
+      "desc": "Semua lini bisnis terkena imbas adanya pandemi atau resesi. Lantas apakah harus berpangku tangan saja? Berikut ini 5 strategi dalam menghadapi pandemi atau resesi."
+    },
+    "product-6": {
+      "name": "2 Cara Praktis Menentukan Positioning yang Menjual",
+      "price": "Rp 99.000",
+      "desc": "Apa sih positioning itu? Kok selalu dibicarakan oleh para praktisi branding? Jika sudah tahu pengertiannya, selanjutnya bagaimana membuat positioning yang tepat untuk brand Anda sendiri?"
+    },
+    "product-7": {
+      "name": "Ebook Branding Bukan Cuma Iklan",
+      "price": "Rp 399.000",
+      "desc": "Step by step branding yang dapat diterapkan ke bisnis atau brand Anda saat ini. Bisa juga digunakan untuk brand Anda yang sedang disiapkan untuk dilaunching."
+    },
+    "product-8": {
+      "name": "Ebook 3 Step Branding Bisnis Kuliner",
+      "price": "Rp 399.000",
+      "desc": "Bagi Anda yang memiliki bisnis kuliner ebook ini bisa jadi jawaban permasalahan yang selama ini hendak diselesaikan. Bisa juga untuk mereka yang sedang membangun usaha baru di bidang kuliner."
+    }
+  }
+}

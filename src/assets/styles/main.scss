@@ -1,0 +1,19 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-image: url('/src/assets/diamond-sunset.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0;
+}
+
+a {
+  color: #212121;
+}
+
+section {
+  padding: 64px 0;
+}
